@@ -1,0 +1,11 @@
+Dashboard Name: codtech-monitoring-dashboard
+
+Widgets:
+- CPUUtilization for EC2 instance i-xxxxxxxxxxxxxxxxx
+- NetworkIn / NetworkOut
+- DiskWriteOps
+
+Alarm Configured:
+- Name: HighCPUAlarm
+- Trigger: CPUUtilization > 70% for 5 minutes
+- Notification: Email via SNS
