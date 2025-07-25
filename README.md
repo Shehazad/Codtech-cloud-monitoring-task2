@@ -1,3 +1,9 @@
+Name: MALLAM SHEHAZAD
+Company: CODTECH IT SOLUTIONS
+Domain: Cloud Computing
+ID:CT06DZ1209
+Duration: July to sep 2025
+
 # Cloud Monitoring Task - AWS CloudWatch Setup
 
 **Internship Task 2 - CodTech IT Solutions**
